@@ -3,7 +3,8 @@
 This project implements different search algorithms (A*, greedy, iterative deepening, BFS) to find the optimal path for a Mars rover, considering terrain data from NASA. The goal is to navigate from one coordinate to another while accounting for the terrain's relief.
 
 ![Alt MarsMap](MarsMap.png)
-*Figure 1: Mars map.*
+
+*Figure 1: Surface of Mars.*
 
 ## Algorithms Implemented
 - A* Search
@@ -12,6 +13,7 @@ This project implements different search algorithms (A*, greedy, iterative deepe
 - Breadth-First Search (BFS)
 
 ![Alt MarsMap](MarsMap2.png)
+
 *Figure 2: Optimal path on Mars using A\* algorithm.*
 
 ## Results
