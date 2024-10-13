@@ -12,10 +12,6 @@ This project implements different search algorithms (A*, greedy, iterative deepe
 - Iterative Deepening Search
 - Breadth-First Search (BFS)
 
-![Alt MarsMap](MarsMap2.png)
-
-*Figure 2: Optimal path on Mars using A\* algorithm.*
-
 ## Results
 Several important questions were answered through this project:
 
@@ -41,6 +37,10 @@ Several important questions were answered through this project:
 
 ## Visualizations
 The project generates Mars surface maps with the optimal routes based on each algorithm's performance. The terrain is visualized in 3D, showcasing the elevation changes that the rover must navigate.
+
+![Alt MarsMap](MarsMap2.png)
+
+*Figure 2: Optimal path on Mars using A\* algorithm.*
 
 ## Conclusion
 This project demonstrates the efficacy of various search algorithms for Mars terrain navigation. A* and BFS provide optimal routes for short distances, while the iterative deepening search performs the worst. Further optimization could enhance the rover's navigation capabilities on more complex terrains.
