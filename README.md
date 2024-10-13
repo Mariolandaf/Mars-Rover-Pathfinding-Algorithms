@@ -8,6 +8,9 @@ This project implements different search algorithms (A*, greedy, iterative deepe
 - Iterative Deepening Search
 - Breadth-First Search (BFS)
 
+![Alt MarsMap](MarsMap2.png)
+*Figure 1: Optimal path on Mars using A\* algorithm.*
+
 ## Results
 Several important questions were answered through this project:
 
