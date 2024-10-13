@@ -16,7 +16,7 @@ This project implements different search algorithms (A*, greedy, iterative deepe
 Several important questions were answered through this project:
 
 1. **Which algorithms found a valid route?**
-   - All four algorithms found valid routes. However, the performance varied: A* and BFS found the shortest paths, both covering 73 meters, while the iterative deepening search was the least efficient.
+   - All four algorithms found valid routes. However, the performance varied: A* and BFS found the shortest paths, while the iterative deepening search was the least efficient.
 
 2. **Is it necessary to use informed searches in this case?**
    - No. Both uninformed searches successfully reached the goal, and BFS performed as well or better than the informed methods.
